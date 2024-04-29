@@ -1,7 +1,7 @@
 # portfolio
-#How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+# How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 1) Interpreting user needs can be tricky sometimes. Sometimes they can be a little vague and that is why it is so important to ask follow up questions, get varification and clarification from users, product owners, etc. User stories are super important because it is direct information from the computer on how the product can be better. These stories give us insight on what they need from a project.
-#How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+# How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
 2) to be honest, I usually just go with it, I just start throwing things together which I am very aware is not a good way to start a program. Sometimes I get so overwhelmed and I'm not sure where to start so I just start typing and hope I find it along away. But what I like about agile is the incremental way of coding. I really need to take it one step at a time, and really plan out my coding process before actually going into it.
-#What does it mean to be a good team member in software development?
+# What does it mean to be a good team member in software development?
 3) A good team member is one who communicates. In any team work environment, the ability to effectively communicate where you are in the process, what you need from others, things like that, is crucial to be a good team member. Of course there are other things like being on time, working efficiently, knowing your craft and your job, but the biggest thing to me about being a good team member is communication.
